@@ -53,3 +53,5 @@ function _handleExceptions(numberInput: number) {
     throw new Error("Number can not contain a decimal point");
   }
 }
+
+// cli menu to input the number to convert
